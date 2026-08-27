@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T07:15:06.321Z",
-    "original_repository": "shaypal5/awesome-twitter-data",
-    "original_repository_id": 145280020,
+    "last_updated": "2026-08-27T12:09:48.250Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 145280020,
+      "language": null,
+      "last_commit": "2026-05-29T10:22:38Z",
+      "owner": "shaypal5",
+      "repo": "awesome-twitter-data",
+      "stars": 1123
+    },
     "original_repository_sha": "813e8c555a06446ecba0c2f9a1b7e3ba4aae60e8",
     "enhanced_repository": "enhansome/enhansome-twitter-data",
     "enhanced_repository_description": null,
