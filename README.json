@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T17:42:30.200Z",
+    "last_updated": "2026-08-28T18:51:28.238Z",
     "original_repository_info": {
       "archived": false,
       "id": 145280020,
@@ -9,7 +9,7 @@
       "last_commit": "2026-05-29T10:22:38Z",
       "owner": "shaypal5",
       "repo": "awesome-twitter-data",
-      "stars": 1123
+      "stars": 1124
     },
     "original_repository_sha": "813e8c555a06446ecba0c2f9a1b7e3ba4aae60e8",
     "enhanced_repository": "enhansome/enhansome-twitter-data",
