@@ -1,15 +1,33 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T18:51:28.238Z",
+    "last_updated": "2026-08-29T04:33:33.989Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of Twitter datasets and related resources.",
+      "homepage": null,
       "id": 145280020,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-29T10:22:38Z",
+      "open_issues": 3,
       "owner": "shaypal5",
       "repo": "awesome-twitter-data",
-      "stars": 1124
+      "stars": 1124,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data",
+        "data-science",
+        "dataset",
+        "datasets",
+        "machine-learning",
+        "sentiment-analysis",
+        "social-network",
+        "social-network-analysis",
+        "social-networks",
+        "twitter"
+      ]
     },
     "original_repository_sha": "813e8c555a06446ecba0c2f9a1b7e3ba4aae60e8",
     "enhanced_repository": "enhansome/enhansome-twitter-data",
