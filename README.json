@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-21T13:03:08.379Z",
+    "last_updated": "2026-09-22T11:52:40.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Twitter datasets and related resources.",
@@ -13,7 +13,7 @@
       "open_issues": 3,
       "owner": "shaypal5",
       "repo": "awesome-twitter-data",
-      "stars": 1127,
+      "stars": 1129,
       "topics": [
         "awesome",
         "awesome-list",
